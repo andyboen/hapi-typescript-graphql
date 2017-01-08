@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bcryptjs": "registry:dt/bcryptjs#2.3.0+20160428043022",
+    "boom": "registry:dt/boom#0.0.0+20160727231249",
+    "hapi": "registry:dt/hapi#13.0.0+20161121214052",
+    "joi": "registry:dt/joi#10.0.0+20161220115018",
+    "jsonwebtoken": "registry:dt/jsonwebtoken#7.2.0+20161229235100",
+    "mongodb": "registry:dt/mongodb#2.1.0+20170107134426",
+    "nconf": "registry:dt/nconf#0.0.0+20161212190028"
+  }
+}
